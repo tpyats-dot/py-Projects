@@ -12,7 +12,7 @@ import math
 
 def print_title():
     print(f"{CYAN}==============================")
-    print(f"    TI-84 Python Calculator   ")
+    print(f"    Basic Calculator   ")
     print(f"=============================={RESET}")
 
 def menu():
@@ -124,3 +124,4 @@ def calculator():
         input(f"{BLUE}Press Enter to continue...{RESET}")
 
 calculator()
+
