@@ -12,7 +12,7 @@ RESET = "\033[0m"
 
 def print_title():
     print(f"{CYAN}==============================")
-    print(f"   TI-84 Python Graphing Calc  ")
+    print(f"   Calc Advanced  ")
     print(f"=============================={RESET}")
 
 def menu():
@@ -204,4 +204,5 @@ def calculator():
         input(f"{BLUE}Press Enter to continue...{RESET}")
 
 calculator()
+
 
